@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Urao</string>
+    <string name="Text_reserv">Reservation : </string>
+
+
+    <string name="Text_LikeTo">Like To Travel With : </string>
+    <string name="Text_plane1">Fly Emirates : </string>
+    <string name="Text_plane2">BD Air : </string>
+    <string name="Text_plane3">Private Jet Plane : </string>
+
+    <string name="Text_catagory">Category : </string>
+    <string name="Text_Economi">Economy  </string>
+    <string name="Text_bussiness">Business  </string>
+
+    <string name="Text_priceReng">Price Range : </string>
+
+
+
+
+</resources>
